@@ -1,0 +1,2 @@
+Date posted	Date of transaction	Merchant Name	MerchantCity	Merchant State	Merchant Zip Code	MCC/SIC Code	MCC Description	Original Amount	Currency	Conversion Rate	Billed Amount	Memo	DebitCredit	ReferenceNbr	Statement Cycle	AccountName	AccountNumber
+2015-01-05	2015-01-04	GOOGLE *SVCS123	CC@GOOGLE.COM	CA	94043	7311	ADVERTISING SERVICES	0.31	US Dollar (840)	1.192307	0.26	False	Debit	51234567890	2015-01-09	MY CC NAME	012345******1111
